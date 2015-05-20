@@ -39,5 +39,8 @@
   },
   "scripts": {
     "test": "grunt"
+  },
+  "bin": {
+    "http-extractor": "cli.js"
   }
 }
