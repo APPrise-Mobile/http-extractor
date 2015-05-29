@@ -1,12 +1,12 @@
 {
   "name": "http-extractor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The best module ever.",
   "author": {
     "name": "frankros91",
     "email": "frankros91@gmail.com"
   },
-  "repository": "frankros91/http-extractor",
+  "repository": "APPrise-Mobile/http-extractor",
   "license": "MIT",
   "files": [
     "index.js"
