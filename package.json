@@ -38,5 +38,8 @@
   },
   "bin": {
     "http-extractor": "cli.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
