@@ -1,6 +1,6 @@
 {
   "name": "http-extractor",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "The best module ever.",
   "author": {
     "name": "frankros91",
@@ -18,7 +18,6 @@
     "q": "^1.4.0",
     "request": "^2.55.0",
     "require-subvert": "^0.1.0",
-    "valid-url": "^1.0.9",
     "xml2js": "^0.4.8"
   },
   "devDependencies": {
